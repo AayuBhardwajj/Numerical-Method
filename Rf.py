@@ -24,7 +24,6 @@ def regular_falsi(a, b, n):
     print("Required root is:", x)
 
 
-# Input section
 a = float(input("First approximate root: "))
 b = float(input("Second approximate root: "))
 n = int(input("No. of iterations: "))
