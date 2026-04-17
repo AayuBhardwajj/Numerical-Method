@@ -1,0 +1,1185 @@
+{
+  "2026-04-09": {
+    "totalTime": 2766,
+    "sessions": [
+      {
+        "activityType": "other",
+        "duration": 31,
+        "endTime": 1775710691536,
+        "isActive": false,
+        "startTime": 1775710660505,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "coding",
+        "duration": 8,
+        "endTime": 1775710779226,
+        "isActive": true,
+        "startTime": 1775710770851,
+        "url": "https://leetcode.com/"
+      },
+      {
+        "activityType": "coding",
+        "duration": 29,
+        "endTime": 1775710808929,
+        "isActive": true,
+        "startTime": 1775710779234,
+        "url": "https://leetcode.com/u/Aayuuu77/"
+      },
+      {
+        "activityType": "coding",
+        "duration": 2,
+        "endTime": 1775710818117,
+        "isActive": true,
+        "startTime": 1775710815884,
+        "url": "https://leetcode.com/u/Aayuuu77/"
+      },
+      {
+        "activityType": "coding",
+        "duration": 2,
+        "endTime": 1775710818134,
+        "isActive": true,
+        "startTime": 1775710815884,
+        "url": "https://leetcode.com/u/Aayuuu77/"
+      },
+      {
+        "activityType": "other",
+        "duration": 1,
+        "endTime": 1775710821777,
+        "isActive": true,
+        "startTime": 1775710820105,
+        "url": "https://www.google.com/search?q=cuims&oq=cuims&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDvSAQc0OTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8"
+      },
+      {
+        "activityType": "other",
+        "duration": 4,
+        "endTime": 1775710826081,
+        "isActive": true,
+        "startTime": 1775710821783,
+        "url": "https://uims.cuchd.in/"
+      },
+      {
+        "activityType": "other",
+        "duration": 9,
+        "endTime": 1775710835567,
+        "isActive": true,
+        "startTime": 1775710826165,
+        "url": "https://students.cuchd.in/"
+      },
+      {
+        "activityType": "other",
+        "duration": 9,
+        "endTime": 1775710844979,
+        "isActive": true,
+        "startTime": 1775710835573,
+        "url": "https://students.cuchd.in/Login.aspx?identifier1=PjyPjLFtDFndBV84VsUtwaQBjFQYrRmW8Q5dQEhLXS8PsnxxnMW6Oc56tjKKDWx9&identifier2=MN7Rmvm6NClWkn9s4U4FKKHVueSkNlBtWILuq7hM67k="
+      },
+      {
+        "activityType": "other",
+        "duration": 2,
+        "endTime": 1775710847146,
+        "isActive": true,
+        "startTime": 1775710844986,
+        "url": "https://students.cuchd.in/LandingPage.aspx"
+      },
+      {
+        "activityType": "other",
+        "duration": 19,
+        "endTime": 1775710866477,
+        "isActive": true,
+        "startTime": 1775710847151,
+        "url": "https://students.cuchd.in/StudentHome.aspx"
+      },
+      {
+        "activityType": "other",
+        "duration": 1,
+        "endTime": 1775710867822,
+        "isActive": true,
+        "startTime": 1775710866481,
+        "url": "https://uims.cuchd.in/"
+      },
+      {
+        "activityType": "other",
+        "duration": 1,
+        "endTime": 1775710884690,
+        "isActive": true,
+        "startTime": 1775710883197,
+        "url": "https://students.cuchd.in/StudentHome.aspx"
+      },
+      {
+        "activityType": "other",
+        "duration": 1,
+        "endTime": 1775710884700,
+        "isActive": true,
+        "startTime": 1775710883197,
+        "url": "https://students.cuchd.in/StudentHome.aspx"
+      },
+      {
+        "activityType": "other",
+        "duration": 11,
+        "endTime": 1775710900774,
+        "isActive": true,
+        "startTime": 1775710889607,
+        "url": "https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFt2g8nRuPVCAAAAZ1wneQoChdVJ4gwmVp-obFgq1pQGUyAq4JZkE0dSdnqeX_liH2mSE1hsSrpn1EFoSzMQMB-lJWlVHcvQ4K6Mx74FCLSHmsBWmvK-FnZtvjCraSulXskaF0=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faayush-bhardwaj-27b530290"
+      },
+      {
+        "activityType": "coding",
+        "duration": 36,
+        "endTime": 1775711086401,
+        "isActive": true,
+        "startTime": 1775711049568,
+        "url": "https://leetcode.com/u/Aayuuu77/"
+      },
+      {
+        "activityType": "video",
+        "duration": 24,
+        "endTime": 1775711133685,
+        "isActive": true,
+        "startTime": 1775711108711,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "activityType": "video",
+        "duration": 140,
+        "endTime": 1775711296140,
+        "isActive": true,
+        "startTime": 1775711155150,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "activityType": "other",
+        "duration": 37,
+        "endTime": 1775711333179,
+        "isActive": false,
+        "startTime": 1775711296140,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "video",
+        "duration": 220,
+        "endTime": 1775711553950,
+        "isActive": true,
+        "startTime": 1775711333183,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "activityType": "video",
+        "duration": 220,
+        "endTime": 1775711553974,
+        "isActive": true,
+        "startTime": 1775711333183,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "activityType": "other",
+        "duration": 22,
+        "endTime": 1775711580511,
+        "isActive": true,
+        "startTime": 1775711558211,
+        "url": "https://chatgpt.com/"
+      },
+      {
+        "activityType": "other",
+        "duration": 157,
+        "endTime": 1775711738238,
+        "isActive": true,
+        "startTime": 1775711580515,
+        "url": "https://chatgpt.com/c/69d72c43-c770-83a5-a1d1-544d5115b472"
+      },
+      {
+        "activityType": "other",
+        "duration": 2,
+        "endTime": 1775711966575,
+        "isActive": true,
+        "startTime": 1775711964137,
+        "url": "https://chatgpt.com/c/69d72c43-c770-83a5-a1d1-544d5115b472"
+      },
+      {
+        "activityType": "other",
+        "duration": 8,
+        "endTime": 1775711975205,
+        "isActive": true,
+        "startTime": 1775711966584,
+        "url": "https://chatgpt.com/"
+      },
+      {
+        "activityType": "other",
+        "duration": 2,
+        "endTime": 1775711978205,
+        "isActive": true,
+        "startTime": 1775711975210,
+        "url": "https://chatgpt.com/c/69d736e0-b58c-8321-a93c-c46fddd5a1f8"
+      },
+      {
+        "activityType": "other",
+        "duration": 49,
+        "endTime": 1775712027226,
+        "isActive": true,
+        "startTime": 1775711978209,
+        "url": "https://chatgpt.com/c/69d72c43-c770-83a5-a1d1-544d5115b472"
+      },
+      {
+        "activityType": "other",
+        "duration": 2,
+        "endTime": 1775712056169,
+        "isActive": true,
+        "startTime": 1775712053223,
+        "url": "https://chatgpt.com/c/69d72c43-c770-83a5-a1d1-544d5115b472"
+      },
+      {
+        "activityType": "other",
+        "duration": 1,
+        "endTime": 1775712066374,
+        "isActive": true,
+        "startTime": 1775712065086,
+        "url": "https://chatgpt.com/c/69d72c43-c770-83a5-a1d1-544d5115b472"
+      },
+      {
+        "activityType": "other",
+        "duration": 190,
+        "endTime": 1775712257288,
+        "isActive": true,
+        "startTime": 1775712066379,
+        "url": "https://chatgpt.com/c/69d736e0-b58c-8321-a93c-c46fddd5a1f8"
+      },
+      {
+        "activityType": "other",
+        "duration": 17,
+        "endTime": 1775712274308,
+        "isActive": false,
+        "startTime": 1775712257288,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "other",
+        "duration": 37,
+        "endTime": 1775712311347,
+        "isActive": true,
+        "startTime": 1775712274314,
+        "url": "https://chatgpt.com/c/69d736e0-b58c-8321-a93c-c46fddd5a1f8"
+      },
+      {
+        "activityType": "other",
+        "duration": 2,
+        "endTime": 1775712313349,
+        "isActive": false,
+        "startTime": 1775712311347,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "other",
+        "duration": 2,
+        "endTime": 1775712315552,
+        "isActive": true,
+        "startTime": 1775712313353,
+        "url": "https://chatgpt.com/c/69d736e0-b58c-8321-a93c-c46fddd5a1f8"
+      },
+      {
+        "activityType": "other",
+        "duration": 2,
+        "endTime": 1775712325918,
+        "isActive": true,
+        "startTime": 1775712323027,
+        "url": "https://www.google.com/search?q=online+games&oq=online+games&gs_lcrp=EgZjaHJvbWUyDggAEEUYJxg5GIAEGIoFMg0IARAAGIMBGLEDGIAEMgoIAhAAGLEDGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgYIBxAFGEDSAQgxNDMyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8"
+      },
+      {
+        "activityType": "other",
+        "duration": 11,
+        "endTime": 1775712337491,
+        "isActive": true,
+        "startTime": 1775712325927,
+        "url": "https://poki.com/"
+      },
+      {
+        "activityType": "other",
+        "duration": 98,
+        "endTime": 1775712436282,
+        "isActive": true,
+        "startTime": 1775712337504,
+        "url": "https://poki.com/en/g/plonky"
+      },
+      {
+        "activityType": "other",
+        "duration": 34,
+        "endTime": 1775712479979,
+        "isActive": true,
+        "startTime": 1775712445314,
+        "url": "https://poki.com/en/g/plonky"
+      },
+      {
+        "activityType": "other",
+        "duration": 2,
+        "endTime": 1775712482691,
+        "isActive": true,
+        "startTime": 1775712480000,
+        "url": "https://www.google.com/search?q=stickman&oq=stickman&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORixAxiABDIPCAEQLhhDGLEDGIAEGIoFMg8IAhAAGBQYhwIYsQMYgAQyCggDEC4YsQMYgAQyCggEEC4YsQMYgAQyCggFEC4YsQMYgAQyCggGEC4YsQMYgAQyCggHEC4YsQMYgAQyBwgIEAAYgATSAQgzMjMyajBqNKgCArACAfEF4zhLFgkWn2U&sourceid=chrome&ie=UTF-8"
+      },
+      {
+        "activityType": "other",
+        "duration": 20,
+        "endTime": 1775712502925,
+        "isActive": true,
+        "startTime": 1775712482696,
+        "url": "https://www.crazygames.com/t/stick"
+      },
+      {
+        "activityType": "other",
+        "duration": 12,
+        "endTime": 1775712515833,
+        "isActive": true,
+        "startTime": 1775712502933,
+        "url": "https://www.crazygames.com/game/stick-war"
+      },
+      {
+        "activityType": "other",
+        "duration": 3,
+        "endTime": 1775712519283,
+        "isActive": true,
+        "startTime": 1775712516125,
+        "url": "https://www.stickpage.com/"
+      },
+      {
+        "activityType": "other",
+        "duration": 47,
+        "endTime": 1775712566308,
+        "isActive": true,
+        "startTime": 1775712519298,
+        "url": "https://www.crazygames.com/game/stick-war"
+      },
+      {
+        "activityType": "other",
+        "duration": 3,
+        "endTime": 1775712569480,
+        "isActive": true,
+        "startTime": 1775712566320,
+        "url": "https://www.crazygames.com/t/stick"
+      },
+      {
+        "activityType": "other",
+        "duration": 128,
+        "endTime": 1775712698317,
+        "isActive": true,
+        "startTime": 1775712569488,
+        "url": "https://www.crazygames.com/game/stickman-rebirth"
+      },
+      {
+        "activityType": "other",
+        "duration": 726,
+        "endTime": 1775713920328,
+        "isActive": false,
+        "startTime": 1775713194242,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "other",
+        "duration": 12,
+        "endTime": 1775713955662,
+        "isActive": true,
+        "startTime": 1775713943280,
+        "url": "https://news.google.com/home?hl=en-IN&gl=IN&ceid=IN:en"
+      },
+      {
+        "activityType": "other",
+        "duration": 9,
+        "endTime": 1775713965040,
+        "isActive": true,
+        "startTime": 1775713955668,
+        "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lnNDVQcUVCRUpNMFgxMVVMN0ZDZ0FQAQ?hl=en-IN&gl=IN&ceid=IN%3Aen"
+      },
+      {
+        "activityType": "coding",
+        "duration": 38,
+        "endTime": 1775714066066,
+        "isActive": true,
+        "startTime": 1775714027767,
+        "url": "https://leetcode.com/u/Aayuuu77/"
+      },
+      {
+        "activityType": "other",
+        "duration": 2,
+        "endTime": 1775714113349,
+        "isActive": true,
+        "startTime": 1775714110667,
+        "url": "https://www.google.com/search?q=claudw&oq=claudw&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgwIAhAjGCcYgAQYigUyDAgDECMYJxiABBiKBTIKCAQQABixAxiABDITCAUQLhiDARjHARixAxjRAxiABDINCAYQABiDARixAxiABDINCAcQABiDARixAxiABNIBBzk1M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8"
+      },
+      {
+        "activityType": "other",
+        "duration": 1,
+        "endTime": 1775714115323,
+        "isActive": true,
+        "startTime": 1775714113357,
+        "url": "https://claude.ai/"
+      },
+      {
+        "activityType": "other",
+        "duration": 2,
+        "endTime": 1775714117764,
+        "isActive": true,
+        "startTime": 1775714115327,
+        "url": "https://claude.ai/new"
+      },
+      {
+        "activityType": "other",
+        "duration": 47,
+        "endTime": 1775714165437,
+        "isActive": true,
+        "startTime": 1775714117770,
+        "url": "https://claude.ai/recents"
+      },
+      {
+        "activityType": "other",
+        "duration": 68,
+        "endTime": 1775714234765,
+        "isActive": true,
+        "startTime": 1775714166340,
+        "url": "https://chatgpt.com/c/69d736e0-b58c-8321-a93c-c46fddd5a1f8"
+      },
+      {
+        "activityType": "other",
+        "duration": 3,
+        "endTime": 1775714237875,
+        "isActive": true,
+        "startTime": 1775714234773,
+        "url": "https://claude.ai/recents"
+      },
+      {
+        "activityType": "other",
+        "duration": 2,
+        "endTime": 1775714240498,
+        "isActive": true,
+        "startTime": 1775714238444,
+        "url": "https://claude.ai/recents?search=i+wanna+c"
+      },
+      {
+        "activityType": "other",
+        "duration": 1,
+        "endTime": 1775714242456,
+        "isActive": true,
+        "startTime": 1775714240502,
+        "url": "https://claude.ai/recents?search="
+      },
+      {
+        "activityType": "other",
+        "duration": 1,
+        "endTime": 1775714243851,
+        "isActive": true,
+        "startTime": 1775714242460,
+        "url": "https://claude.ai/projects"
+      },
+      {
+        "activityType": "other",
+        "duration": 21,
+        "endTime": 1775714265137,
+        "isActive": true,
+        "startTime": 1775714243856,
+        "url": "https://claude.ai/project/019d6166-ad8a-756b-b296-a504a43e2923"
+      },
+      {
+        "activityType": "other",
+        "duration": 5,
+        "endTime": 1775714274373,
+        "isActive": true,
+        "startTime": 1775714268873,
+        "url": "http://localhost:3000/home"
+      },
+      {
+        "activityType": "other",
+        "duration": 26,
+        "endTime": 1775714301142,
+        "isActive": true,
+        "startTime": 1775714274385,
+        "url": "http://localhost:3000/login"
+      },
+      {
+        "activityType": "other",
+        "duration": 22,
+        "endTime": 1775714323584,
+        "isActive": true,
+        "startTime": 1775714301193,
+        "url": "https://claude.ai/project/019d6166-ad8a-756b-b296-a504a43e2923"
+      },
+      {
+        "activityType": "other",
+        "duration": 27,
+        "endTime": 1775714350883,
+        "isActive": true,
+        "startTime": 1775714323590,
+        "url": "http://localhost:3000/login"
+      },
+      {
+        "activityType": "other",
+        "duration": 13,
+        "endTime": 1775714364740,
+        "isActive": true,
+        "startTime": 1775714350976,
+        "url": "https://claude.ai/project/019d6166-ad8a-756b-b296-a504a43e2923"
+      },
+      {
+        "activityType": "other",
+        "duration": 7,
+        "endTime": 1775714374396,
+        "isActive": true,
+        "startTime": 1775714366824,
+        "url": "http://localhost:3000/login"
+      },
+      {
+        "activityType": "other",
+        "duration": 11,
+        "endTime": 1775714386460,
+        "isActive": true,
+        "startTime": 1775714374570,
+        "url": "https://claude.ai/project/019d6166-ad8a-756b-b296-a504a43e2923"
+      },
+      {
+        "activityType": "other",
+        "duration": 1,
+        "endTime": 1775714387722,
+        "isActive": true,
+        "startTime": 1775714386468,
+        "url": "http://localhost:3000/login"
+      },
+      {
+        "activityType": "other",
+        "duration": 7,
+        "endTime": 1775714395703,
+        "isActive": true,
+        "startTime": 1775714387744,
+        "url": "https://claude.ai/project/019d6166-ad8a-756b-b296-a504a43e2923"
+      },
+      {
+        "activityType": "other",
+        "duration": 5,
+        "endTime": 1775714401105,
+        "isActive": true,
+        "startTime": 1775714395711,
+        "url": "http://localhost:3000/login"
+      },
+      {
+        "activityType": "other",
+        "duration": 43,
+        "endTime": 1775714444577,
+        "isActive": true,
+        "startTime": 1775714401116,
+        "url": "https://claude.ai/project/019d6166-ad8a-756b-b296-a504a43e2923"
+      },
+      {
+        "activityType": "other",
+        "duration": 3,
+        "endTime": 1775714447770,
+        "isActive": true,
+        "startTime": 1775714444585,
+        "url": "http://localhost:3000/login"
+      },
+      {
+        "activityType": "other",
+        "duration": 52,
+        "endTime": 1775714500434,
+        "isActive": true,
+        "startTime": 1775714447870,
+        "url": "https://claude.ai/project/019d6166-ad8a-756b-b296-a504a43e2923"
+      },
+      {
+        "activityType": "other",
+        "duration": 29,
+        "endTime": 1775714530055,
+        "isActive": true,
+        "startTime": 1775714500440,
+        "url": "https://claude.ai/chat/e6cf4ef6-d805-4a6a-9bc8-cd595404d565"
+      },
+      {
+        "activityType": "other",
+        "duration": 82,
+        "endTime": 1775714612131,
+        "isActive": false,
+        "startTime": 1775714530055,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "other",
+        "duration": 31,
+        "endTime": 1775714643731,
+        "isActive": true,
+        "startTime": 1775714612139,
+        "url": "https://claude.ai/chat/e6cf4ef6-d805-4a6a-9bc8-cd595404d565"
+      },
+      {
+        "activityType": "other",
+        "duration": 8,
+        "endTime": 1775714657282,
+        "isActive": true,
+        "startTime": 1775714648771,
+        "url": "https://www.google.com/search?q=is+claude+down%3F&oq=is+claude+down%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDINCAIQABiDARixAxiABDINCAMQABiDARixAxiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM4NDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8"
+      },
+      {
+        "activityType": "other",
+        "duration": 6,
+        "endTime": 1775714663293,
+        "isActive": true,
+        "startTime": 1775714657288,
+        "url": "https://www.reddit.com/r/claude/comments/1sey6qf/is_claude_down_again_2nd_day_in_a_row/"
+      },
+      {
+        "activityType": "other",
+        "duration": 13,
+        "endTime": 1775714676854,
+        "isActive": true,
+        "startTime": 1775714663301,
+        "url": "http://localhost:3000/login"
+      },
+      {
+        "activityType": "other",
+        "duration": 49,
+        "endTime": 1775714746374,
+        "isActive": true,
+        "startTime": 1775714696483,
+        "url": "https://claude.ai/chat/e6cf4ef6-d805-4a6a-9bc8-cd595404d565"
+      },
+      {
+        "activityType": "other",
+        "duration": 8,
+        "endTime": 1775714755321,
+        "isActive": true,
+        "startTime": 1775714746402,
+        "url": "http://localhost:3000/login"
+      },
+      {
+        "activityType": "other",
+        "duration": 2,
+        "endTime": 1775714757812,
+        "isActive": true,
+        "startTime": 1775714755331,
+        "url": "https://www.reddit.com/r/claude/comments/1sey6qf/is_claude_down_again_2nd_day_in_a_row/"
+      },
+      {
+        "activityType": "other",
+        "duration": 3,
+        "endTime": 1775725894069,
+        "isActive": true,
+        "startTime": 1775725890276,
+        "url": "https://www.google.com/search?q=link&oq=link&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiPAjIHCAIQABiPAjIHCAMQABiPAjIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEHNTUyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8"
+      },
+      {
+        "activityType": "other",
+        "duration": 27,
+        "endTime": 1775725921089,
+        "isActive": true,
+        "startTime": 1775725894077,
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/link"
+      },
+      {
+        "activityType": "other",
+        "duration": 19,
+        "endTime": 1775726510965,
+        "isActive": false,
+        "startTime": 1775726491950,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "other",
+        "duration": 15,
+        "endTime": 1775726582027,
+        "isActive": false,
+        "startTime": 1775726567013,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "other",
+        "duration": 1,
+        "endTime": 1775726587428,
+        "isActive": true,
+        "startTime": 1775726586210,
+        "url": "https://www.google.com/search?q=clade&oq=clade&gs_lcrp=EgZjaHJvbWUyFAgAEEUYORhDGIMBGLEDGIAEGIoFMhEIARAjGCcYRhj5ARiABBiKBTIPCAIQABhDGLEDGIAEGIoFMgwIAxAAGEMYgAQYigUyDwgEEAAYQxixAxiABBiKBTIMCAUQLhhDGIAEGIoFMg8IBhAAGEMYsQMYgAQYigUyBggHEEUYPNIBBzc0MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8"
+      },
+      {
+        "activityType": "other",
+        "duration": 4,
+        "endTime": 1775726592822,
+        "isActive": true,
+        "startTime": 1775726587979,
+        "url": "https://claude.ai/new"
+      },
+      {
+        "activityType": "other",
+        "duration": 1,
+        "endTime": 1775726594174,
+        "isActive": true,
+        "startTime": 1775726592828,
+        "url": "https://claude.ai/projects"
+      },
+      {
+        "activityType": "other",
+        "duration": 19,
+        "endTime": 1775726613192,
+        "isActive": true,
+        "startTime": 1775726594180,
+        "url": "https://claude.ai/project/019d6166-ad8a-756b-b296-a504a43e2923"
+      },
+      {
+        "activityType": "other",
+        "duration": 43,
+        "endTime": 1775726657090,
+        "isActive": true,
+        "startTime": 1775726613200,
+        "url": "https://claude.ai/chat/0e7f0c74-ab90-4868-8e60-a1ebc0945c12"
+      },
+      {
+        "activityType": "other",
+        "duration": 38,
+        "endTime": 1775726695125,
+        "isActive": false,
+        "startTime": 1775726657090,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "other",
+        "duration": 4,
+        "endTime": 1775726699985,
+        "isActive": true,
+        "startTime": 1775726695131,
+        "url": "https://claude.ai/chat/0e7f0c74-ab90-4868-8e60-a1ebc0945c12"
+      },
+      {
+        "activityType": "other",
+        "duration": 130,
+        "endTime": 1775726965381,
+        "isActive": false,
+        "startTime": 1775726835254,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "other",
+        "duration": 82,
+        "endTime": 1775728467883,
+        "isActive": false,
+        "startTime": 1775728385797,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "other",
+        "duration": 42,
+        "endTime": 1775728540961,
+        "isActive": false,
+        "startTime": 1775728498916,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "other",
+        "duration": 42,
+        "endTime": 1775728689126,
+        "isActive": false,
+        "startTime": 1775728647088,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "other",
+        "duration": 3,
+        "endTime": 1775728916378,
+        "isActive": true,
+        "startTime": 1775728912977,
+        "url": "https://www.google.com/search?q=monkey+type&oq=monkey+type+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDIKCAIQABixAxiABDINCAMQABiDARixAxiABDIHCAQQABiABDIHCAUQABiABDINCAYQABiDARixAxiABDIGCAcQBRhA0gEIMTg4MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8"
+      },
+      {
+        "activityType": "other",
+        "duration": 61,
+        "endTime": 1775728977702,
+        "isActive": true,
+        "startTime": 1775728916393,
+        "url": "https://monkeytype.com/"
+      },
+      {
+        "activityType": "other",
+        "duration": 4,
+        "endTime": 1775729168821,
+        "isActive": false,
+        "startTime": 1775729164818,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "other",
+        "duration": 135,
+        "endTime": 1775729398048,
+        "isActive": false,
+        "startTime": 1775729262917,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "other",
+        "duration": 74,
+        "endTime": 1775729483126,
+        "isActive": false,
+        "startTime": 1775729409061,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "other",
+        "duration": 295,
+        "endTime": 1775729824059,
+        "isActive": false,
+        "startTime": 1775729528167,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "other",
+        "duration": 40,
+        "endTime": 1775729889113,
+        "isActive": true,
+        "startTime": 1775729848318,
+        "url": "https://claude.ai/chat/0e7f0c74-ab90-4868-8e60-a1ebc0945c12"
+      },
+      {
+        "activityType": "other",
+        "duration": 24,
+        "endTime": 1775729913135,
+        "isActive": false,
+        "startTime": 1775729889113,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "coding",
+        "duration": 2,
+        "endTime": 1775729929428,
+        "isActive": true,
+        "startTime": 1775729927375,
+        "url": "https://leetcode.com/"
+      },
+      {
+        "activityType": "video",
+        "duration": 8,
+        "endTime": 1775729937571,
+        "isActive": true,
+        "startTime": 1775729929436,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "activityType": "coding",
+        "duration": 5,
+        "endTime": 1775729942599,
+        "isActive": true,
+        "startTime": 1775729937579,
+        "url": "https://leetcode.com/"
+      },
+      {
+        "activityType": "coding",
+        "duration": 28,
+        "endTime": 1775729971280,
+        "isActive": true,
+        "startTime": 1775729942607,
+        "url": "https://leetcode.com/u/Aayuuu77/"
+      },
+      {
+        "activityType": "other",
+        "duration": 10,
+        "endTime": 1775730015240,
+        "isActive": false,
+        "startTime": 1775730005230,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "video",
+        "duration": 37,
+        "endTime": 1775730133487,
+        "isActive": true,
+        "startTime": 1775730095614,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "activityType": "other",
+        "duration": 1,
+        "endTime": 1775730135096,
+        "isActive": true,
+        "startTime": 1775730133496,
+        "url": "https://claude.ai/chat/0e7f0c74-ab90-4868-8e60-a1ebc0945c12"
+      },
+      {
+        "activityType": "other",
+        "duration": 11,
+        "endTime": 1775730193403,
+        "isActive": false,
+        "startTime": 1775730182393,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "coding",
+        "duration": 58,
+        "endTime": 1775730252906,
+        "isActive": true,
+        "startTime": 1775730194234,
+        "url": "https://leetcode.com/u/Aayuuu77/"
+      },
+      {
+        "activityType": "other",
+        "duration": 9,
+        "endTime": 1775730263032,
+        "isActive": true,
+        "startTime": 1775730253851,
+        "url": "https://medium.com/@aayush92777"
+      },
+      {
+        "activityType": "other",
+        "duration": 12,
+        "endTime": 1775730275328,
+        "isActive": true,
+        "startTime": 1775730263048,
+        "url": "https://medium.com/@aayush92777/second-week-of-dsa-challenge-72ffa5bc582c"
+      },
+      {
+        "activityType": "coding",
+        "duration": 11,
+        "endTime": 1775730286922,
+        "isActive": true,
+        "startTime": 1775730275337,
+        "url": "https://leetcode.com/u/Aayuuu77/"
+      },
+      {
+        "activityType": "other",
+        "duration": 2,
+        "endTime": 1775730368961,
+        "isActive": true,
+        "startTime": 1775730366225,
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/link"
+      },
+      {
+        "activityType": "other",
+        "duration": 2,
+        "endTime": 1775730368973,
+        "isActive": true,
+        "startTime": 1775730366225,
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/link"
+      },
+      {
+        "activityType": "coding",
+        "duration": 34,
+        "endTime": 1775730408590,
+        "isActive": true,
+        "startTime": 1775730373658,
+        "url": "https://github.com/AayuBhardwajj"
+      },
+      {
+        "activityType": "other",
+        "duration": 10,
+        "endTime": 1775730418600,
+        "isActive": false,
+        "startTime": 1775730408590,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "coding",
+        "duration": 4,
+        "endTime": 1775730422624,
+        "isActive": true,
+        "startTime": 1775730418608,
+        "url": "https://github.com/AayuBhardwajj"
+      },
+      {
+        "activityType": "other",
+        "duration": 2,
+        "endTime": 1775730428225,
+        "isActive": true,
+        "startTime": 1775730425227,
+        "url": "https://claude.ai/chat/0e7f0c74-ab90-4868-8e60-a1ebc0945c12"
+      },
+      {
+        "activityType": "coding",
+        "duration": 14,
+        "endTime": 1775730443123,
+        "isActive": true,
+        "startTime": 1775730428236,
+        "url": "https://leetcode.com/u/Aayuuu77/"
+      },
+      {
+        "activityType": "coding",
+        "duration": 6,
+        "endTime": 1775730449327,
+        "isActive": true,
+        "startTime": 1775730443129,
+        "url": "https://github.com/AayuBhardwajj"
+      },
+      {
+        "activityType": "coding",
+        "duration": 2,
+        "endTime": 1775730451896,
+        "isActive": true,
+        "startTime": 1775730449335,
+        "url": "https://github.com/AayuBhardwajj?tab=overview&from=2025-12-01&to=2025-12-31"
+      },
+      {
+        "activityType": "coding",
+        "duration": 6,
+        "endTime": 1775730458552,
+        "isActive": true,
+        "startTime": 1775730451903,
+        "url": "https://github.com/AayuBhardwajj?tab=overview&from=2026-04-01&to=2026-04-09"
+      },
+      {
+        "activityType": "coding",
+        "duration": 1,
+        "endTime": 1775730460429,
+        "isActive": true,
+        "startTime": 1775730458558,
+        "url": "https://github.com/AayuBhardwajj?tab=overview&from=2025-12-01&to=2025-12-31"
+      },
+      {
+        "activityType": "coding",
+        "duration": 54,
+        "endTime": 1775730518563,
+        "isActive": true,
+        "startTime": 1775730464258,
+        "url": "https://github.com/AayuBhardwajj"
+      },
+      {
+        "activityType": "coding",
+        "duration": 16,
+        "endTime": 1775730534872,
+        "isActive": true,
+        "startTime": 1775730518569,
+        "url": "https://github.com/AayuBhardwajj?tab=overview&from=2024-12-01&to=2024-12-31"
+      },
+      {
+        "activityType": "coding",
+        "duration": 3,
+        "endTime": 1775730538276,
+        "isActive": true,
+        "startTime": 1775730534883,
+        "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FAayuBhardwajj"
+      },
+      {
+        "activityType": "coding",
+        "duration": 3,
+        "endTime": 1775730541382,
+        "isActive": true,
+        "startTime": 1775730538288,
+        "url": "https://github.com/AayuBhardwajj?tab=overview&from=2024-12-01&to=2024-12-31"
+      },
+      {
+        "activityType": "coding",
+        "duration": 16,
+        "endTime": 1775730557491,
+        "isActive": true,
+        "startTime": 1775730541388,
+        "url": "https://github.com/AayuBhardwajj?tab=repositories"
+      },
+      {
+        "activityType": "coding",
+        "duration": 11,
+        "endTime": 1775730568891,
+        "isActive": true,
+        "startTime": 1775730557500,
+        "url": "https://github.com/AayuBhardwajj"
+      },
+      {
+        "activityType": "coding",
+        "duration": 31,
+        "endTime": 1775730607782,
+        "isActive": true,
+        "startTime": 1775730576350,
+        "url": "https://github.com/AayuBhardwajj"
+      },
+      {
+        "activityType": "other",
+        "duration": 28,
+        "endTime": 1775730635809,
+        "isActive": false,
+        "startTime": 1775730607782,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "coding",
+        "duration": 31,
+        "endTime": 1775730666838,
+        "isActive": true,
+        "startTime": 1775730635818,
+        "url": "https://github.com/AayuBhardwajj"
+      },
+      {
+        "activityType": "other",
+        "duration": 37,
+        "endTime": 1775730703875,
+        "isActive": false,
+        "startTime": 1775730666838,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "coding",
+        "duration": 5,
+        "endTime": 1775730709732,
+        "isActive": true,
+        "startTime": 1775730703884,
+        "url": "https://github.com/AayuBhardwajj"
+      },
+      {
+        "activityType": "other",
+        "duration": 284,
+        "endTime": 1775731108354,
+        "isActive": false,
+        "startTime": 1775730823989,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "other",
+        "duration": 79,
+        "endTime": 1775731326579,
+        "isActive": false,
+        "startTime": 1775731247496,
+        "url": "idle://system"
+      },
+      {
+        "activityType": "other",
+        "duration": 38,
+        "endTime": 1775731395650,
+        "isActive": false,
+        "startTime": 1775731357610,
+        "url": "idle://system"
+      }
+    ]
+  },
+  "historyData": {
+    "lastUpdated": 1775731411873,
+    "data": [
+      {
+        "domain": "kecgggeohjoloidpmdcgafdcefkpjkfi",
+        "lastVisitTime": 1775731398595,
+        "visitCount": 5
+      },
+      {
+        "domain": "github.com",
+        "lastVisitTime": 1775730557485,
+        "visitCount": 14
+      },
+      {
+        "domain": "leetcode.com",
+        "lastVisitTime": 1775730436558,
+        "visitCount": 13
+      },
+      {
+        "domain": "medium.com",
+        "lastVisitTime": 1775730263046,
+        "visitCount": 3
+      },
+      {
+        "domain": "youtube.com",
+        "lastVisitTime": 1775730100535,
+        "visitCount": 15
+      },
+      {
+        "domain": "claude.ai",
+        "lastVisitTime": 1775729858469,
+        "visitCount": 32
+      },
+      {
+        "domain": "monkeytype.com",
+        "lastVisitTime": 1775728916370,
+        "visitCount": 1
+      },
+      {
+        "domain": "google.com",
+        "lastVisitTime": 1775728912955,
+        "visitCount": 3
+      },
+      {
+        "domain": "developer.mozilla.org",
+        "lastVisitTime": 1775725894060,
+        "visitCount": 1
+      }
+    ]
+  }
+}
